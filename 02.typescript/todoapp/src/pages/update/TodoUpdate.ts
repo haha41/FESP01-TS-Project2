@@ -1,5 +1,5 @@
-import TodoDelete from "../delete/TodoDelete.js";
-import fetchDetailData from "../fetch/fetchDetailData.js";
+import TodoDelete from "../delete/TodoDelete";
+import fetchDetailData from "../fetch/fetchDetailData";
 
 /* [수정 모드] & [저장 모드] 변경 함수 */
 const TodoUpdate = (_id, editButton, deleteButton, title, content) => {

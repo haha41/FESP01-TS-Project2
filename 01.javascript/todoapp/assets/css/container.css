@@ -1,0 +1,13 @@
+#app {
+  width: 1200px;
+  height: 800px;
+  padding: 40px 80px;
+}
+
+.contents-container {
+  width: 1040px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
